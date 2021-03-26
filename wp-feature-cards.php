@@ -11,7 +11,7 @@
  * Plugin Name:       WP Feature Cards
  * Plugin URI:        https://github.com/ashwinncj/wp-feature-cards
  * Description:       Different Types of Feature Cards for the posts.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            Ashwin Kumar C
